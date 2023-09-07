@@ -1,0 +1,6 @@
+sever:
+  port: 80
+
+spring:
+  application:
+    name: spring.shop
