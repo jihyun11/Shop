@@ -35,3 +35,11 @@ a
 1src/main/java/inhatc/spring/shop/entity/User.java,8/e/8e3959c3c5a73217999b8c44f348d3813312caf7
 a
 1src/main/java/inhatc/spring/shop/dto/UserDto.java,f/4/f402ce6a41e0d1df8dd09864fd472b1e7188faf7
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+a
+1src/main/java/inhatc/spring/shop/entity/Item.java,f/b/fb8dabd727fb3ec3199a4df1636cf94b5ccaaff2
+o
+?src/main/java/inhatc/spring/shop/repository/itemRepository.java,e/9/e9275d5fe2dacb738ce11c10d182d19aac50369f
+m
+=src/main/java/inhatc/spring/shop/constant/ItemSellStatus.java,5/4/540bb208bb1219de20334c0913166ce95361ab5f
