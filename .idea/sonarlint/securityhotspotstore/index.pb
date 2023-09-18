@@ -35,3 +35,9 @@ e
 5src/main/java/inhatc/spring/shop/ShopApplication.java,0/b/0b73fa2df0ca7164c0270dacd3ac46b5f0a74244
 j
 :src/test/java/inhatc/spring/shop/ShopApplicationTests.java,3/6/3631b155a6f249916f2aeb550649b9e8ddf1ce9c
+a
+1src/main/java/inhatc/spring/shop/entity/Item.java,f/b/fb8dabd727fb3ec3199a4df1636cf94b5ccaaff2
+o
+?src/main/java/inhatc/spring/shop/repository/itemRepository.java,e/9/e9275d5fe2dacb738ce11c10d182d19aac50369f
+m
+=src/main/java/inhatc/spring/shop/constant/ItemSellStatus.java,5/4/540bb208bb1219de20334c0913166ce95361ab5f
